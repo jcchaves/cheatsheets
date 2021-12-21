@@ -1,6 +1,6 @@
 # Git aliases
 
-## Common aliases to setup
+## Common aliases to setup
 
 ```sh
 git config --global alias.co checkout
